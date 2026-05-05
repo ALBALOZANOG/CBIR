@@ -24,6 +24,7 @@ from torchvision import models, transforms
 
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 st.set_page_config(layout="wide")
+
 # Rutas principales y carpetas de persistencia
 FILES_PATH = str(pathlib.Path().resolve())
 IMAGES_PATH = os.path.join(FILES_PATH, 'images', 'train')
@@ -32,6 +33,18 @@ DB_PATH = os.path.join(FILES_PATH, 'database')
 COMPARISONS_PATH = os.path.join(FILES_PATH, 'comparisons')
 EVALS_PATH = os.path.join(COMPARISONS_PATH, 'evals')
 os.makedirs(EVALS_PATH, exist_ok=True)
+
+# Validar que las carpetas existen
+if not os.path.exists(IMAGES_PATH):
+    st.error(f"❌ No se encontró la carpeta de imágenes: {IMAGES_PATH}")
+    st.stop()
+
+if not os.path.exists(TEST_PATH):
+    st.warning(f"⚠️ No existe carpeta de test: {TEST_PATH}")
+
+if not os.path.exists(DB_PATH):
+    st.error(f"❌ No se encontró la base de datos: {DB_PATH}")
+    st.stop()
 
 
 # ======================
@@ -290,7 +303,24 @@ def evaluate_extractor(feature_extractor, k=5, top_n=10):
 
     indexer = faiss.read_index(index_path)
     df = pd.read_csv(csv_path)
-    image_list = list(df.image.values)
+    
+    # Limpiar rutas en el CSV (convertir rutas antiguas a relativas si es necesario)
+    image_list = []
+    for img_path in df.image.values:
+        # Si contiene CDIA_oficial u otra ruta antigua, extraer solo la parte relativa
+        if 'CDIA_oficial' in str(img_path) or '\\' in str(img_path):
+            # Extraer solo la parte desde images/train
+            parts = str(img_path).split(os.sep)
+            if 'images' in parts:
+                idx = parts.index('images')
+                # Reconstruir como ruta relativa
+                rel_path = os.sep.join(parts[idx+1:])
+                image_list.append(rel_path)
+            else:
+                image_list.append(str(img_path))
+        else:
+            image_list.append(str(img_path))
+    
     label_list = list(df.label.values)
     label_counts = Counter(label_list)
 
@@ -323,7 +353,8 @@ def evaluate_extractor(feature_extractor, k=5, top_n=10):
 
             retrieved_idxs = idxs[0].tolist()
             retrieved_labels = [label_list[i] for i in retrieved_idxs]
-            retrieved_paths = [os.path.join(IMAGES_PATH, image_list[i]) for i in retrieved_idxs]
+            # Construir rutas correctamente: reemplazar separadores Windows con OS
+            retrieved_paths = [os.path.join(IMAGES_PATH, image_list[i].replace('\\', os.sep).replace('/', os.sep)) for i in retrieved_idxs]
 
             queries.append({
                 'query_path': img_path,

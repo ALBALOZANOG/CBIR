@@ -3,7 +3,7 @@
   "queries_data": {
     "queries": [
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\forest\\20056.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\forest\\20056.jpg",
         "query_label": "forest",
         "retrieved_labels": [
           "forest",
@@ -18,20 +18,20 @@
           "forest"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20299.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20686.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20439.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20173.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20544.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20330.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20411.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20619.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20800.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20996.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20299.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20686.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20439.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20173.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20544.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20330.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20411.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20619.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20800.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20996.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\forest\\20062.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\forest\\20062.jpg",
         "query_label": "forest",
         "retrieved_labels": [
           "forest",
@@ -46,20 +46,20 @@
           "forest"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20299.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20544.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20411.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20800.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20996.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20556.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\21126.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20315.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20831.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20619.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20299.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20544.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20411.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20800.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20996.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20556.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\21126.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20315.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20831.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20619.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\forest\\20082.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\forest\\20082.jpg",
         "query_label": "forest",
         "retrieved_labels": [
           "forest",
@@ -74,20 +74,20 @@
           "forest"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20947.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20299.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20930.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20938.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20885.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20714.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20322.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20544.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20958.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20638.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20947.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20299.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20930.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20938.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20885.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20714.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20322.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20544.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20958.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20638.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\forest\\20089.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\forest\\20089.jpg",
         "query_label": "forest",
         "retrieved_labels": [
           "forest",
@@ -102,20 +102,20 @@
           "forest"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20996.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20411.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20800.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20299.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20315.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20447.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\21126.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20485.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20544.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20900.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20996.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20411.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20800.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20299.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20315.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20447.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\21126.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20485.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20544.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20900.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\forest\\20091.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\forest\\20091.jpg",
         "query_label": "forest",
         "retrieved_labels": [
           "forest",
@@ -130,20 +130,20 @@
           "forest"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20930.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20947.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20900.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\21018.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20322.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20885.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20596.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20996.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20728.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20260.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20930.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20947.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20900.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\21018.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20322.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20885.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20596.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20996.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20728.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20260.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\forest\\20095.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\forest\\20095.jpg",
         "query_label": "forest",
         "retrieved_labels": [
           "forest",
@@ -158,20 +158,20 @@
           "forest"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20620.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20605.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20774.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20322.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20794.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20582.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20225.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20151.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20782.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20785.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20620.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20605.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20774.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20322.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20794.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20582.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20225.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20151.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20782.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20785.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\forest\\20098.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\forest\\20098.jpg",
         "query_label": "forest",
         "retrieved_labels": [
           "forest",
@@ -186,20 +186,20 @@
           "forest"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20252.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20384.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20485.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20173.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\21126.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20619.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20785.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20794.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20544.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20916.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20252.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20384.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20485.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20173.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\21126.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20619.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20785.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20794.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20544.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20916.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\forest\\20100.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\forest\\20100.jpg",
         "query_label": "forest",
         "retrieved_labels": [
           "forest",
@@ -214,20 +214,20 @@
           "forest"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20900.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20996.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20411.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20315.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20619.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20596.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\21126.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20544.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20299.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20447.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20900.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20996.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20411.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20315.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20619.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20596.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\21126.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20544.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20299.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20447.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\forest\\20108.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\forest\\20108.jpg",
         "query_label": "forest",
         "retrieved_labels": [
           "forest",
@@ -242,20 +242,20 @@
           "forest"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20582.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20938.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20947.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20322.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20299.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20485.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20714.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20900.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\21018.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\21126.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20582.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20938.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20947.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20322.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20299.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20485.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20714.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20900.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\21018.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\21126.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\forest\\20117.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\forest\\20117.jpg",
         "query_label": "forest",
         "retrieved_labels": [
           "forest",
@@ -270,20 +270,20 @@
           "forest"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20330.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20556.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20175.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20544.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20439.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20831.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20740.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20306.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20660.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20718.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20330.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20556.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20175.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20544.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20439.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20831.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20740.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20306.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20660.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20718.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\glacier\\20059.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\glacier\\20059.jpg",
         "query_label": "glacier",
         "retrieved_labels": [
           "glacier",
@@ -298,20 +298,20 @@
           "glacier"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20458.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20917.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21411.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20326.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20212.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20534.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20531.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21025.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20414.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21303.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20458.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20917.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21411.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20326.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20212.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20534.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20531.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21025.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20414.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21303.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\glacier\\20092.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\glacier\\20092.jpg",
         "query_label": "glacier",
         "retrieved_labels": [
           "glacier",
@@ -326,20 +326,20 @@
           "glacier"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21543.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21303.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21473.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20910.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21926.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20726.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20924.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20570.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20477.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21411.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21543.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21303.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21473.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20910.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21926.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20726.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20924.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20570.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20477.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21411.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\glacier\\20111.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\glacier\\20111.jpg",
         "query_label": "glacier",
         "retrieved_labels": [
           "glacier",
@@ -354,20 +354,20 @@
           "mountain"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20616.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21256.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21537.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20477.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\22043.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21544.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20626.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21473.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21596.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20867.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20616.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21256.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21537.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20477.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\22043.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21544.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20626.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21473.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21596.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20867.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\glacier\\20142.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\glacier\\20142.jpg",
         "query_label": "glacier",
         "retrieved_labels": [
           "glacier",
@@ -382,20 +382,20 @@
           "sea"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21303.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21543.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20326.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20566.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\22112.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20212.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20917.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20534.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20490.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20704.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21303.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21543.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20326.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20566.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\22112.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20212.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20917.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20534.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20490.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20704.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\glacier\\20195.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\glacier\\20195.jpg",
         "query_label": "glacier",
         "retrieved_labels": [
           "glacier",
@@ -410,20 +410,20 @@
           "glacier"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20477.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21842.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21799.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21537.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20616.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20570.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21473.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\22043.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21824.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20726.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20477.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21842.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21799.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21537.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20616.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20570.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21473.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\22043.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21824.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20726.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\glacier\\20198.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\glacier\\20198.jpg",
         "query_label": "glacier",
         "retrieved_labels": [
           "glacier",
@@ -438,20 +438,20 @@
           "glacier"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\22133.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21842.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20887.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20751.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20949.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20287.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20802.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\22026.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21824.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21799.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\22133.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21842.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20887.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20751.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20949.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20287.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20802.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\22026.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21824.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21799.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\glacier\\20204.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\glacier\\20204.jpg",
         "query_label": "glacier",
         "retrieved_labels": [
           "glacier",
@@ -466,20 +466,20 @@
           "glacier"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21473.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21967.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21409.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20950.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20477.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21090.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21053.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21543.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21669.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\22043.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21473.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21967.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21409.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20950.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20477.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21090.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21053.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21543.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21669.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\22043.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\glacier\\20210.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\glacier\\20210.jpg",
         "query_label": "glacier",
         "retrieved_labels": [
           "glacier",
@@ -494,20 +494,20 @@
           "glacier"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21543.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21473.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21409.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20477.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\22254.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20713.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20910.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\22043.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21092.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20868.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21543.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21473.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21409.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20477.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\22254.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20713.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20910.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\22043.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21092.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20868.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\glacier\\20249.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\glacier\\20249.jpg",
         "query_label": "glacier",
         "retrieved_labels": [
           "glacier",
@@ -522,20 +522,20 @@
           "glacier"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20917.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20713.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21543.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\22254.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21412.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21092.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21043.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20906.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20570.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21060.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20917.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20713.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21543.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\22254.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21412.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21092.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21043.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20906.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20570.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21060.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\glacier\\20272.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\glacier\\20272.jpg",
         "query_label": "glacier",
         "retrieved_labels": [
           "glacier",
@@ -550,20 +550,20 @@
           "mountain"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21537.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20477.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22797.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20924.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21824.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20559.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20851.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20910.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20616.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20608.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21537.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20477.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22797.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20924.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21824.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20559.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20851.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20910.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20616.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20608.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\mountain\\20058.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\mountain\\20058.jpg",
         "query_label": "mountain",
         "retrieved_labels": [
           "mountain",
@@ -578,20 +578,20 @@
           "mountain"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21055.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21280.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21162.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20871.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20276.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21201.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22950.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\23266.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\23232.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20961.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21055.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21280.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21162.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20871.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20276.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21201.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22950.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\23266.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\23232.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20961.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\mountain\\20085.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\mountain\\20085.jpg",
         "query_label": "mountain",
         "retrieved_labels": [
           "mountain",
@@ -606,20 +606,20 @@
           "mountain"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20691.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21226.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20327.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\23153.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20282.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20545.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20871.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20226.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22866.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20867.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20691.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21226.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20327.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\23153.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20282.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20545.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20871.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20226.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22866.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20867.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\mountain\\20120.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\mountain\\20120.jpg",
         "query_label": "mountain",
         "retrieved_labels": [
           "mountain",
@@ -634,20 +634,20 @@
           "mountain"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20363.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20871.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21040.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20226.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20867.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20971.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22884.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\23232.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20691.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21226.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20363.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20871.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21040.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20226.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20867.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20971.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22884.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\23232.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20691.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21226.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\mountain\\20123.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\mountain\\20123.jpg",
         "query_label": "mountain",
         "retrieved_labels": [
           "mountain",
@@ -662,20 +662,20 @@
           "glacier"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22780.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21226.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22820.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20657.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21055.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21276.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21096.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20626.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22844.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21544.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22780.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21226.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22820.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20657.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21055.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21276.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21096.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20626.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22844.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21544.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\mountain\\20133.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\mountain\\20133.jpg",
         "query_label": "mountain",
         "retrieved_labels": [
           "mountain",
@@ -690,20 +690,20 @@
           "mountain"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20626.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21348.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22820.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20871.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21055.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20961.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21226.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\23232.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20528.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\23062.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20626.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21348.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22820.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20871.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21055.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20961.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21226.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\23232.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20528.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\23062.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\mountain\\20144.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\mountain\\20144.jpg",
         "query_label": "mountain",
         "retrieved_labels": [
           "mountain",
@@ -718,20 +718,20 @@
           "mountain"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20871.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21348.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\23103.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22820.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21226.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\23232.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20443.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21162.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\23024.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22780.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20871.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21348.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\23103.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22820.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21226.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\23232.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20443.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21162.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\23024.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22780.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\mountain\\20153.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\mountain\\20153.jpg",
         "query_label": "mountain",
         "retrieved_labels": [
           "urban",
@@ -746,20 +746,20 @@
           "mountain"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\21148.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20733.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21038.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\23243.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21369.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22884.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21262.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22820.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22848.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22844.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\21148.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20733.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21038.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\23243.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21369.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22884.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21262.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22820.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22848.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22844.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\mountain\\20154.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\mountain\\20154.jpg",
         "query_label": "mountain",
         "retrieved_labels": [
           "mountain",
@@ -774,20 +774,20 @@
           "mountain"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20545.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20691.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\23153.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21340.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20909.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20870.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20867.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\23232.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20781.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20971.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20545.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20691.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\23153.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21340.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20909.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20870.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20867.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\23232.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20781.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20971.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\mountain\\20176.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\mountain\\20176.jpg",
         "query_label": "mountain",
         "retrieved_labels": [
           "mountain",
@@ -802,20 +802,20 @@
           "mountain"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20276.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21226.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\23232.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20853.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22866.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21055.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20871.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20226.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20282.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21348.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20276.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21226.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\23232.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20853.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22866.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21055.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20871.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20226.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20282.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21348.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\mountain\\20189.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\mountain\\20189.jpg",
         "query_label": "mountain",
         "retrieved_labels": [
           "mountain",
@@ -830,20 +830,20 @@
           "glacier"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22797.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21276.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\22846.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21804.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20950.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21409.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\21162.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\mountain\\20655.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21412.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20616.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22797.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21276.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22846.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21804.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20950.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21409.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21162.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\20655.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21412.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20616.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\sea\\20072.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\sea\\20072.jpg",
         "query_label": "sea",
         "retrieved_labels": [
           "sea",
@@ -858,20 +858,20 @@
           "sea"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20664.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20316.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20534.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20170.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20333.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20419.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20240.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20289.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20672.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20305.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20664.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20316.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20534.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20170.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20333.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20419.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20240.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20289.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20672.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20305.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\sea\\20076.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\sea\\20076.jpg",
         "query_label": "sea",
         "retrieved_labels": [
           "forest",
@@ -886,20 +886,20 @@
           "glacier"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\21087.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21450.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21043.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20288.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\22112.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20794.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20774.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20316.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20382.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\21149.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\21087.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21450.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21043.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20288.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\22112.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20794.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20774.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20316.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20382.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\21149.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\sea\\20077.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\sea\\20077.jpg",
         "query_label": "sea",
         "retrieved_labels": [
           "sea",
@@ -914,20 +914,20 @@
           "sea"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20289.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20476.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20634.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20473.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20333.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20534.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20316.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20753.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20649.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20531.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20289.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20476.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20634.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20473.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20333.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20534.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20316.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20753.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20649.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20531.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\sea\\20081.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\sea\\20081.jpg",
         "query_label": "sea",
         "retrieved_labels": [
           "sea",
@@ -942,20 +942,20 @@
           "sea"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20316.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20473.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20634.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20534.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20531.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20289.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20511.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\21730.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20882.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20264.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20316.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20473.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20634.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20534.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20531.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20289.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20511.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\21730.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20882.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20264.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\sea\\20099.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\sea\\20099.jpg",
         "query_label": "sea",
         "retrieved_labels": [
           "sea",
@@ -970,20 +970,20 @@
           "sea"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20316.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20647.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20265.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\21730.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20869.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20170.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20841.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20289.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20878.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20840.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20316.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20647.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20265.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\21730.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20869.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20170.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20841.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20289.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20878.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20840.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\sea\\20106.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\sea\\20106.jpg",
         "query_label": "sea",
         "retrieved_labels": [
           "sea",
@@ -998,20 +998,20 @@
           "sea"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20313.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20905.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20672.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20822.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20265.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20534.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20639.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\21729.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20513.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20893.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20313.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20905.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20672.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20822.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20265.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20534.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20639.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\21729.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20513.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20893.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\sea\\20112.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\sea\\20112.jpg",
         "query_label": "sea",
         "retrieved_labels": [
           "sea",
@@ -1026,20 +1026,20 @@
           "sea"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20473.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20240.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20882.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20138.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20305.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20634.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\21730.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20289.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20285.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20395.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20473.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20240.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20882.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20138.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20305.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20634.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\21730.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20289.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20285.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20395.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\sea\\20114.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\sea\\20114.jpg",
         "query_label": "sea",
         "retrieved_labels": [
           "sea",
@@ -1054,20 +1054,20 @@
           "sea"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20595.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20316.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20840.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20955.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20634.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20333.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20640.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20473.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20289.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20869.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20595.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20316.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20840.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20955.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20634.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20333.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20640.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20473.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20289.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20869.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\sea\\20115.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\sea\\20115.jpg",
         "query_label": "sea",
         "retrieved_labels": [
           "sea",
@@ -1082,20 +1082,20 @@
           "sea"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20534.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20649.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20289.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20531.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\glacier\\20326.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20305.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20212.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20240.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20389.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20476.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20534.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20649.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20289.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20531.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\glacier\\20326.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20305.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20212.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20240.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20389.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20476.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\sea\\20124.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\sea\\20124.jpg",
         "query_label": "sea",
         "retrieved_labels": [
           "sea",
@@ -1110,20 +1110,20 @@
           "sea"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20265.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20402.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20172.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20347.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20639.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20753.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20511.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20240.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20909.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\sea\\20840.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20265.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20402.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20172.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20347.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20639.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20753.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20511.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20240.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20909.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\sea\\20840.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\urban\\20057.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\urban\\20057.jpg",
         "query_label": "urban",
         "retrieved_labels": [
           "urban",
@@ -1138,20 +1138,20 @@
           "urban"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20766.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20536.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20581.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\21058.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20663.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20587.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20922.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20246.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20804.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20966.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20766.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20536.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20581.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\21058.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20663.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20587.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20922.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20246.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20804.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20966.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\urban\\20060.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\urban\\20060.jpg",
         "query_label": "urban",
         "retrieved_labels": [
           "urban",
@@ -1166,20 +1166,20 @@
           "urban"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\21017.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20309.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20896.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\21104.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20228.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\21141.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20776.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20524.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20580.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20663.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\21017.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20309.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20896.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\21104.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20228.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\21141.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20776.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20524.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20580.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20663.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\urban\\20061.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\urban\\20061.jpg",
         "query_label": "urban",
         "retrieved_labels": [
           "urban",
@@ -1194,20 +1194,20 @@
           "urban"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20436.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20344.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20748.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20268.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20646.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20918.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20431.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20515.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20710.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20788.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20436.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20344.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20748.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20268.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20646.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20918.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20431.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20515.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20710.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20788.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\urban\\20064.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\urban\\20064.jpg",
         "query_label": "urban",
         "retrieved_labels": [
           "urban",
@@ -1222,20 +1222,20 @@
           "urban"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20186.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20730.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20858.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20228.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20553.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20606.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20766.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20206.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\21099.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20524.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20186.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20730.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20858.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20228.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20553.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20606.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20766.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20206.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\21099.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20524.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\urban\\20073.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\urban\\20073.jpg",
         "query_label": "urban",
         "retrieved_labels": [
           "urban",
@@ -1250,20 +1250,20 @@
           "urban"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20748.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20515.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20350.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20898.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20723.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20268.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\21099.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20207.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20928.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20874.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20748.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20515.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20350.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20898.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20723.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20268.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\21099.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20207.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20928.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20874.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\urban\\20078.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\urban\\20078.jpg",
         "query_label": "urban",
         "retrieved_labels": [
           "urban",
@@ -1278,20 +1278,20 @@
           "urban"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20611.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20394.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20723.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20725.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\21011.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20546.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20733.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20563.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20350.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20587.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20611.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20394.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20723.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20725.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\21011.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20546.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20733.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\20563.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20350.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20587.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\urban\\20083.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\urban\\20083.jpg",
         "query_label": "urban",
         "retrieved_labels": [
           "urban",
@@ -1306,20 +1306,20 @@
           "urban"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20630.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\21041.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20555.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\21099.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20904.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\21017.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20805.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20688.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20294.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\21151.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20630.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\21041.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20555.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\21099.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20904.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\21017.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20805.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20688.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20294.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\21151.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\urban\\20094.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\urban\\20094.jpg",
         "query_label": "urban",
         "retrieved_labels": [
           "urban",
@@ -1334,20 +1334,20 @@
           "urban"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20441.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20515.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20581.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20928.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20777.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\21159.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20131.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20846.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20826.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20804.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20441.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20515.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20581.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20928.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20777.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\21159.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20131.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20846.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20826.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20804.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\urban\\20096.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\urban\\20096.jpg",
         "query_label": "urban",
         "retrieved_labels": [
           "urban",
@@ -1362,20 +1362,20 @@
           "urban"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20431.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20268.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20515.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20546.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20581.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20723.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20465.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20460.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20952.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20730.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20431.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20268.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20515.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20546.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20581.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20723.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20465.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20460.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20952.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20730.jpg"
         ]
       },
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\urban\\20113.jpg",
+        "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\urban\\20113.jpg",
         "query_label": "urban",
         "retrieved_labels": [
           "urban",
@@ -1390,16 +1390,16 @@
           "urban"
         ],
         "retrieved_paths": [
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20549.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20245.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20228.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20580.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20710.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20896.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20524.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20666.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20635.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\urban\\20550.jpg"
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20549.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20245.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20228.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20580.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20710.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20896.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20524.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20666.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20635.jpg",
+          "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\20550.jpg"
         ]
       }
     ],
@@ -1480,6 +1480,47 @@
         }
       ],
       "timestamp": "2025-12-13T13:55:18.759117"
+    },
+    "3": {
+      "metrics": {
+        "top1": 0.96,
+        "p_at_k": 0.9533333333333333,
+        "recall_at_k": 0.02860000000000002,
+        "map_at_k": 0.9466666666666668,
+        "avg_time_ms": 2056.9874811172485,
+        "queries": 50
+      },
+      "failures": [
+        {
+          "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\glacier\\20111.jpg",
+          "query_label": "glacier",
+          "wrong_label": "mountain",
+          "rank": 2,
+          "wrong_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\21256.jpg"
+        },
+        {
+          "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\glacier\\20272.jpg",
+          "query_label": "glacier",
+          "wrong_label": "mountain",
+          "rank": 3,
+          "wrong_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\mountain\\22797.jpg"
+        },
+        {
+          "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\mountain\\20153.jpg",
+          "query_label": "mountain",
+          "wrong_label": "urban",
+          "rank": 1,
+          "wrong_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\urban\\21148.jpg"
+        },
+        {
+          "query_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\test\\sea\\20076.jpg",
+          "query_label": "sea",
+          "wrong_label": "forest",
+          "rank": 1,
+          "wrong_path": "C:\\Users\\albag\\UNI\\CUARTO\\AAPI\\CBIR\\images\\train\\forest\\21087.jpg"
+        }
+      ],
+      "timestamp": "2026-05-05T17:51:24.457867"
     }
   }
 }

@@ -3,7 +3,7 @@
   "queries_data": {
     "queries": [
       {
-        "query_path": "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\test\\forest\\20056.jpg",
+        "query_path": "images/test/forest/20056.jpg",
         "query_label": "forest",
         "retrieved_labels": [
           "forest",
@@ -20,12 +20,12 @@
         "retrieved_paths": [
           "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20315.jpg",
           "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20416.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20927.jpg",
+          "images/train/forest/20927.jpg",
           "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20714.jpg",
           "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20544.jpg",
           "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20756.jpg",
           "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20411.jpg",
-          "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20686.jpg",
+          "images/train/forest/20686.jpg",
           "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20175.jpg",
           "C:\\CDIA_oficial\\7_cuatri\\4_Algoritmos y arquitecturas para procesado de imágenes\\proyecto\\images\\train\\forest\\20831.jpg"
         ]
