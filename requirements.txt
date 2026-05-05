@@ -1,0 +1,12 @@
+pandas
+numpy==1.26.4
+requests==2.27.1
+faiss-cpu==1.8.0
+matplotlib==3.7.1
+streamlit==1.34.0
+torch==2.9.0
+streamlit-cropper==0.2.2
+pillow==10.4.0
+torchvision==0.24.0
+scikit-image==0.23.2
+git+https://github.com/openai/CLIP.git
